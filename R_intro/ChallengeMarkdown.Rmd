@@ -1,0 +1,15 @@
+---
+title: "ChallengeMarkdown"
+author: "Arnav Bajwa"
+date: "September 23, 2018"
+output: html_document
+---
+
+#The Future
+- *Tesla isn't big*  
+-_Trump is not the president_  
+-`Global Warming was a hoax`  
+
+##Facts
+1. There are no facts
+2. You heard it here first
